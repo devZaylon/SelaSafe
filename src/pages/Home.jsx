@@ -275,7 +275,7 @@ export default function Home() {
                 href="mailto:selasafe@co.za"
                 className="btn-primary flex-1 min-w-[16rem] text-center text-lg uppercase whitespace-nowrap"
               >
-                selasafe@co.za
+                selasafesa@gmail.com
               </a>
             </div>
           </AnimatedSection>
