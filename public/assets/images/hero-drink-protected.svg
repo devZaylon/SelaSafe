@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#111"/>
+  <circle cx="400" cy="260" r="120" fill="#1a1a1a" stroke="#d946ef" stroke-width="1" opacity="0.5"/>
+  <text x="400" y="420" text-anchor="middle" fill="#555" font-family="Montserrat,sans-serif" font-size="16">hero-drink-protected.jpg</text>
+</svg>

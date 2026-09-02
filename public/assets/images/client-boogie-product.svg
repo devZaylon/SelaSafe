@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="533" viewBox="0 0 400 533">
+  <rect width="400" height="533" fill="#0d0d0d"/>
+  <circle cx="200" cy="266" r="100" fill="#111" stroke="#d946ef" stroke-width="1"/>
+  <text x="200" y="420" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="12">client-boogie-product.jpg</text>
+</svg>
