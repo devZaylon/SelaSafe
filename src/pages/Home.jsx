@@ -272,7 +272,7 @@ export default function Home() {
               </a>
 
               <a
-                href="mailto:selasafe@co.za"
+                href="mailto:selasafesa@gmail.com"
                 className="btn-primary flex-1 min-w-[16rem] text-center text-lg uppercase whitespace-nowrap"
               >
                 selasafesa@gmail.com

@@ -129,13 +129,13 @@ export default function Footer() {
 
                 {/* Email */}
                 <a
-                  href="mailto:selasafe@co.za"
+                  href="mailto:selasafesa@gmail.com"
                   className="flex items-center space-x-3 text-sela-white hover:text-sela-lavender transition-colors duration-300 group"
                 >
                   <div className="p-2 rounded-lg bg-gradient-to-r from-sela-neon-pink to-sela-purple-glow group-hover:shadow-lg transition-all duration-300">
                     <Mail size={16} className="text-white" />
                   </div>
-                  <span className="text-sm font-medium uppercase">selasafe@co.za</span>
+                  <span className="text-sm font-medium uppercase">selasafesa@gmail.com</span>
                 </a>
 
                 {/* Social Handle */}
